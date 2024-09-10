@@ -1,0 +1,5 @@
+
+  # Build species-level extension projects
+  
+  # Equine lentiviruses
+  run file glue/build/extension/equine/buildLentiExtensionEquine.glue  
