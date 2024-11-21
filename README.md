@@ -6,8 +6,6 @@ Welcome to the GitHub repository for **Lentivirus-GLUE-EIAV**: an extension to *
 
 The EIAV extension to EIAV-GLUE incorporates all published EIAV sequence data linked to associated metadata, including information that is sequence-associated (length, publication date); taxonomic (viral genotype, subtype); and isolate-associated (isolation host species, date and location of sampling, isolation source).
 
-For more details please see the Lentivirus-GLUE **[User Guide](https://github.com/giffordlabcvr/Lentivirus-GLUE/wiki/EIAV-Project-Development-Background)**.
-
 ## Data Sources
 
 **Lentivirus-GLUE-EIAV** is constructed using sequence data obtained from [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore).
