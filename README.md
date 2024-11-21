@@ -1,5 +1,3 @@
-Welcome to the GitHub repository for **Lentivirus-GLUE-EIAV**: an extension to **[Lentivirus-GLUE](https://github.com/giffordlabcvr/Lentivirus-GLUE)**.
-
 ## Equine Infectious Anemia Virus (EIAV) Extension to Lentivirus-GLUE
 
 <img src="md/horse-droplet.png" align="right" alt="" width="220" />
