@@ -1,6 +1,6 @@
-# Lentivirus-GLUE-Equine Contributor Guidelines
+# Lentivirus-GLUE-EIAV Contributor Guidelines
 
-Welcome to Lentivirus-GLUE-Equine! We appreciate your interest in contributing to our project. By contributing, you help make Lentivirus-GLUE-Equine a better resource for the community.
+Welcome to Lentivirus-GLUE-EIAV! We appreciate your interest in contributing to our project. By contributing, you help make Lentivirus-GLUE-EIAV a better resource for the community.
 
 ## Table of Contents
 
@@ -48,6 +48,6 @@ Please follow the existing code style within the GLUE project to maintain consis
 
 ## License
 
-By contributing to Lentivirus-GLUE-Equine, you agree that your contributions will be licensed under the [GNU Affero General Public License v. 3.0](https://www.gnu.org/licenses/agpl-3.0.en.html).
+By contributing to Lentivirus-GLUE-EIAV, you agree that your contributions will be licensed under the [GNU Affero General Public License v. 3.0](https://www.gnu.org/licenses/agpl-3.0.en.html).
 
-Thank you for contributing to Lentivirus-GLUE-Equine!
+Thank you for contributing to Lentivirus-GLUE-EIAV!
