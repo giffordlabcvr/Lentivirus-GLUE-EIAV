@@ -8,9 +8,29 @@ Equine infectious anemia virus (EIAV) infects horses, mules, and donkeys, causin
 
 The EIAV extension to EIAV-GLUE incorporates all published EIAV sequence data linked to associated metadata, including information that is sequence-associated (length, publication date); taxonomic (viral genotype, subtype); and isolate-associated (isolation host species, date and location of sampling, isolation source).
 
+* * * * *
+
+
+Installation
+------------
+
+To install **Lentivirus-GLUE-ERV**, follow the instructions provided in the **[User Guide](https://github.com/giffordlabcvr/Lentivirus-GLUE/wiki)**.
+
+You can choose between:
+
+-   **[Docker-based installation](https://github.com/giffordlabcvr/Lentivirus-GLUE/wiki/Docker-Installation)** for ease of deployment.
+-   **[Native installation](https://github.com/giffordlabcvr/Lentivirus-GLUE/wiki/Native-Installation)** for traditional setup.
+
+Lentivirus-GLUE-ERV can be installed as a prebuilt database for quick setup or constructed from scratch via (a project build process) for more customization.
+
+* * * * *
+
 ## Data Sources
 
 **Lentivirus-GLUE-EIAV** is constructed using sequence data obtained from [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore).
+
+* * * * *
+
 
 ## Contributing
 
@@ -18,9 +38,15 @@ We welcome contributions from the community! If you're interested in contributin
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](./md/code_of_conduct.md)
 
+* * * * *
+
+
 ## License
 
 The project is licensed under the [GNU Affero General Public License v. 3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)
+
+* * * * *
+
 
 ## Contact
 
