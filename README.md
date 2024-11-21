@@ -10,7 +10,7 @@ For more details please see the Lentivirus-GLUE **[User Guide](https://github.co
 
 ## Data Sources
 
-Lentivirus-GLUE-EIAV is constructed using sequence data obtained from [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore).
+**Lentivirus-GLUE-EIAV** is constructed using sequence data obtained from [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore).
 
 ## Contributing
 
