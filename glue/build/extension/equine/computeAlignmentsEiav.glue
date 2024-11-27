@@ -1,0 +1,4 @@
+delete module eiavvCompoundAligner
+
+create module -f modules/build/extension/eiav/eiavCompoundAligner.xml
+

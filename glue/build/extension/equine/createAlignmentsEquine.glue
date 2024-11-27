@@ -1,8 +1,8 @@
   # Clean up
-  delete module compoundAlignerEquine
+  delete module eiavCompoundAligner
 
   # Create modules
-  create module -f modules/build/extension/Equine/compoundAlignerEquine.xml
+  create module -f modules/build/extension/Equine/eiavCompoundAligner.xml
 
   # Compute alignments
-  compute alignment AL_Equine compoundAlignerEquine
+  compute alignment AL_Equine eiavCompoundAligner

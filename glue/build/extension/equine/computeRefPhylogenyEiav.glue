@@ -1,0 +1,9 @@
+  # Create the phylogeny (without outgroup)
+  module lentiNucsRaxmlPhylogenyGenerator
+    
+    generate nucleotide phylogeny AL_TREE_Equine_Temp \
+      --allMembers \
+      -o trees/eiavReferencePhylogeny.tree \
+      NEWICK_BOOTSTRAPS
+      
+    exit    
