@@ -29,6 +29,9 @@
 	# Record feature presence
 	run file glue/build/extension/equine/recordFeaturePresenceEquine.glue
 
+	# Import reference phylogeny
+	run file glue/build/extension/srlv/importGenotypingPhylogenyEquine.glue
+
 	# Validate
 	validate
 

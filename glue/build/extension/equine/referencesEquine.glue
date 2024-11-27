@@ -2,10 +2,14 @@
 
   
   # Equine
-  create reference REF_EIAV_Eu ncbi-refseqs-equine JX480632
-  create reference REF_EIAV_As ncbi-refseqs-equine AF327877
+  create reference REF_EIAV_Eu1 ncbi-refseqs-equine JX480632
+  create reference REF_EIAV_Eu2 ncbi-refseqs-equine MT338937
+  create reference REF_EIAV_ES  ncbi-refseqs-equine MW924675
+  create reference REF_EIAV_UK  ncbi-refseqs-equine MH580898
+  create reference REF_EIAV_BR  ncbi-refseqs-equine MN560970
+  create reference REF_EIAV_As  ncbi-refseqs-equine AF327877
 
-   reference REF_EIAV_Eu
+   reference REF_EIAV_Eu1
 
     add feature-location whole_genome
     feature-location whole_genome

@@ -1,0 +1,43 @@
+alignment AL_ROOT
+ 
+  add member -w "source.name = 'ncbi-refseqs-equine'"
+  add member -w "source.name = 'ncbi-curated-equine'"
+ 
+  demote member AL_Equine  -w "sequence.source.name = 'ncbi-refseqs-equine'" 
+  demote member AL_Equine  -w "sequence.source.name = 'ncbi-curated-equine'"
+  
+  exit
+
+
+alignment AL_TREE_Equine
+
+    set field displayName "Equine lentiviruses"
+    set field clade_category subgenus  
+
+    add member --whereClause "source.name = 'ncbi-refseqs-eiav'"
+    add member --whereClause "source.name = 'ncbi-refseqs-core' and species = 'EIAV'"
+   
+    extract child AL_TREE_EIAV_Am --refName REF_EIAV_Am
+    demote member AL_TREE_EIAV_Am --whereClause "sequence.genotype = 'American'" 
+   
+    extract child AL_TREE_EIAV_As --refName REF_EIAV_As
+    demote member AL_TREE_EIAV_As --whereClause "sequence.genotype = 'Asian'" 
+   
+    extract child AL_TREE_EIAV_Eu1 --refName REF_EIAV_Eu1
+    demote member AL_TREE_EIAV_Eu1 --whereClause "sequence.genotype = 'European1'" 
+
+    extract child AL_TREE_EIAV_Eu2 --refName REF_EIAV_Eu2
+    demote member AL_TREE_EIAV_Eu2 --whereClause "sequence.genotype = 'European2'" 
+   
+    extract child AL_TREE_EIAV_ES --refName REF_EIAV_ES
+    demote member AL_TREE_EIAV_ES --whereClause "sequence.genotype = 'Spain'" 
+
+    extract child AL_TREE_EIAV_BR --refName REF_EIAV_BR
+    demote member AL_TREE_EIAV_BR --whereClause "sequence.genotype = 'Brazil'" 
+
+    extract child AL_TREE_EIAV_UK --refName REF_EIAV_UK
+    demote member AL_TREE_EIAV_UK --whereClause "sequence.genotype = 'UK'" 
+
+    exit
+
+
