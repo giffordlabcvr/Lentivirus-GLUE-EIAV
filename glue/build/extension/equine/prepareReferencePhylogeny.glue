@@ -1,0 +1,27 @@
+
+  # Clean up
+  delete module figTreeAnnotationExporterEiav
+
+  # Create modules
+  create module -f modules/analysis/phylogeny/extension/eiav/figTreeAnnotationExporterEiav.xml
+  
+  # Export annotations
+  module figTreeAnnotationExporterEiav 
+  
+    export figtree-annotation AL_TREE_Equine_Temp \
+        -f trees/eiavReferenceFigtreeAnnotations.txt
+
+    exit
+
+  
+  # Midpoint root 
+  module lentiPhyloUtility
+  
+	# midpoint rooting
+	reroot-phylogeny \
+      --inputFile trees/eiavReferencePhylogeny.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/eiavReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+    exit
+

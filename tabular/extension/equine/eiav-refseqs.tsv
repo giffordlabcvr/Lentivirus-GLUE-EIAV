@@ -1,3 +1,64 @@
-sequenceID	full_name	name	species	subgenus	clade	subtype	genotype	host_common_name	host_sci_name	isolate	year	country	pubmed_id
-JX480632	Equine infectious anemia virus	EIAV	EIAV	Equine	European	European	NULL	Domestic horse	Equus caballus	NK	NK		NK
-AF327877	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Asian	NULL	Domestic horse	Equus caballus	NK	NK		NK
+sequenceID	full_name	name	species	subgenus	genotype	host_common_name	host_sci_name	isolate	collection_year	country	pubmed_id
+AB008196	Equine infectious anemia virus	EIAV	EIAV	Equine	American	Domestic horse	Equus caballus		NK	NK	10930666
+AB008197	Equine infectious anemia virus	EIAV	EIAV	Equine	American	Domestic horse	Equus caballus		NK	NK	10930666
+GU385356	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+KM247554	Equine infectious anemia virus	EIAV	EIAV	Equine	European1	Domestic horse	Equus caballus		NK	Italy	NK
+KM247555	Equine infectious anemia virus	EIAV	EIAV	Equine	European1	Domestic horse	Equus caballus		NK	Italy	NK
+MH580898	Equine infectious anemia virus	EIAV	EIAV	Equine	UK	Domestic horse	Equus caballus		2012	United Kingdom	NK
+MH820163	Equine infectious anemia virus	EIAV	EIAV	Equine	American	Domestic horse	Equus caballus		2009	USA	NK
+MH820164	Equine infectious anemia virus	EIAV	EIAV	Equine	American	Domestic horse	Equus caballus		2008	USA	NK
+MH820165	Equine infectious anemia virus	EIAV	EIAV	Equine	American	Domestic horse	Equus caballus		2008	USA	NK
+MH820166	Equine infectious anemia virus	EIAV	EIAV	Equine	American	Domestic horse	Equus caballus		2016	USA	NK
+MN560971	Equine infectious anemia virus	EIAV	EIAV	Equine	Brazil	Domestic horse	Equus caballus		2015	Brazil	32059508
+MT338937	Equine infectious anemia virus	EIAV	EIAV	Equine	European2	Domestic horse	Equus caballus		2015	Serbia	NK
+MW924675	Equine infectious anemia virus	EIAV	EIAV	Equine	Spain	Domestic horse	Equus caballus		2017	Spain	NK
+MW924676	Equine infectious anemia virus	EIAV	EIAV	Equine	Spain	Domestic horse	Equus caballus		2017	Spain	NK
+MW924677	Equine infectious anemia virus	EIAV	EIAV	Equine	Spain	Domestic horse	Equus caballus		2017	Spain	NK
+AF016316	Equine infectious anemia virus	EIAV	EIAV	Equine	American	Domestic horse	Equus caballus		NK	United States	9445039
+AF028231	Equine infectious anemia virus	EIAV	EIAV	Equine	American	Domestic horse	Equus caballus		NK	NK	NK
+AF028232	Equine infectious anemia virus	EIAV	EIAV	Equine	American	Domestic horse	Equus caballus		NK	NK	9420249
+AF247394	Equine infectious anemia virus	EIAV	EIAV	Equine	American	Domestic horse	Equus caballus		NK	NK	11038386
+AF327877	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	NK	16932982
+AF327878	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	NK	16932982
+GU385353	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+GU385354	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+GU385355	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+GU385357	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+GU385358	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+GU385359	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+GU385360	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+GU385361	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+GU385362	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+GU385363	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+GU385364	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+GU385365	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+HM141909	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+HM141910	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+HM141911	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+HM141912	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+HM141913	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+HM141914	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+HM141915	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+HM141916	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+HM141917	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+HM141918	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+HM141919	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+HM141920	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+HM141921	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+HM141922	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+HM141923	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		NK	China	21136127
+JX003263	Equine infectious anemia virus	EIAV	EIAV	Equine	Asian	Domestic horse	Equus caballus		2011	Japan	23100364
+JX480631	Equine infectious anemia virus	EIAV	EIAV	Equine	European1	Domestic horse	Equus caballus		2006	Ireland	23175240
+JX480632	Equine infectious anemia virus	EIAV	EIAV	Equine	European1	Domestic horse	Equus caballus		2006	Ireland	23175240
+JX480633	Equine infectious anemia virus	EIAV	EIAV	Equine	European1	Domestic horse	Equus caballus		2006	Ireland	23175240
+JX480634	Equine infectious anemia virus	EIAV	EIAV	Equine	European1	Domestic horse	Equus caballus		2006	Ireland	23175240
+M16575	Equine infectious anemia virus	EIAV	EIAV	Equine	American	Domestic horse	Equus caballus		NK	NK	NK
+M87581	Equine infectious anemia virus	EIAV	EIAV	Equine	American	Domestic horse	Equus caballus		NK	NK	1318398
+MH580896	Equine infectious anemia virus	EIAV	EIAV	Equine	European2	Domestic horse	Equus caballus		1975	United Kingdom	NK
+MH580897	Equine infectious anemia virus	EIAV	EIAV	Equine	European1	Domestic horse	Equus caballus		2010	United Kingdom	NK
+MK593462	Equine infectious anemia virus	EIAV	EIAV	Equine	European2	Domestic horse	Equus caballus		2014	France	31493650
+MK593463	Equine infectious anemia virus	EIAV	EIAV	Equine	European1	Domestic horse	Equus caballus		2014	France	31493650
+MN560970	Equine infectious anemia virus	EIAV	EIAV	Equine	Brazil	Domestic horse	Equus caballus		2015	Brazil	32059508
+NC_001450	Equine infectious anemia virus	EIAV	EIAV	Equine	American	Domestic horse	Equus caballus		NK	NK	NK
+ON615427	Equine infectious anemia virus	EIAV	EIAV	Equine	Brazil	Domestic horse	Equus caballus		2014	Brazil	NK
+U01866	Equine infectious anemia virus	EIAV	EIAV	Equine	American	Domestic horse	Equus caballus		NK	NK	8113766

@@ -53,16 +53,22 @@
 		</gbQualifier>
 
 		<gbQualifier name="country">
-			<propertyPopulator property="isolate_data.country"/>
+			<propertyPopulator property="isolate_data.country">
+				<matchPattern>([^:]+)</matchPattern>
+				<outputTemplate>${g1}</outputTemplate>
+			</propertyPopulator>
 			<propertyPopulator property="isolate_data.place_sampled">
 				<matchPattern>^.*:(.*)$</matchPattern>
 				<outputTemplate>${g1?trim}</outputTemplate>
 			</propertyPopulator>
+			<isoCountryPropertyPopulator property="m49_country" codeStyle="ALPHA_3">
+			
+			</isoCountryPropertyPopulator>
 		</gbQualifier>
 				
 		<gbQualifier name="genotype">
 			<propertyPopulator property="genotype">
-				<matchPattern>([A-E].*)</matchPattern>
+				<matchPattern>([A-Z].*)</matchPattern>
 				<outputTemplate>${g1}</outputTemplate>
 			</propertyPopulator>
 		</gbQualifier>
