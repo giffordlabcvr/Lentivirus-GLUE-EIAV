@@ -1,0 +1,11 @@
+# Import alignment
+
+
+
+# Derive constrained segments throughout the tree from unconstrained    
+alignment AL_Equine
+
+  derive segments AL_UNC_Equine --recursive --existingMembersOnly --allMembers -m OVERWRITE
+  
+  exit
+
