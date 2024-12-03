@@ -15,10 +15,11 @@
 
 	# Import alignment
 	run file glue/build/extension/equine/alignmentEquine.glue
+    run file glue/build/extension/equine/createUncAlignmentEquine.glue
 
 	# Add extension set sequences constrained alignment tree
 	run file glue/build/extension/equine/alignmentTreeEiavGenotyping.glue
-	
+ 
 	# Compute alignments
 	run file glue/build/extension/equine/createAlignmentsEquine.glue
 	

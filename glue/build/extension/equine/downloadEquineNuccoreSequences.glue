@@ -1,0 +1,12 @@
+
+  # Clean up any previous - delete modules
+  delete module ncbiImporterNuccoreEquine
+  
+  # Create modules
+  create module -f modules/build/extension/equine/ncbiImporterNuccoreEquine.xml
+
+  # Download NCBI sequences 
+  module ncbiImporterNuccoreEquine import
+
+  # Export sources
+  export source ncbi-nuccore-equine
