@@ -1,115 +1,78 @@
-  ## Reference sequence declarations
+    ## Reference sequence declarations
+    
+    # American genotype
+    create reference REF_EIAV_Am_AB008196    ncbi-refseqs-equine AB008196
+    create reference REF_EIAV_Am_AB008197    ncbi-refseqs-equine AB008197
+    create reference REF_EIAV_Am_MH820163    ncbi-refseqs-equine MH820163
+    create reference REF_EIAV_Am_MH820164    ncbi-refseqs-equine MH820164
+    create reference REF_EIAV_Am_MH820165    ncbi-refseqs-equine MH820165
+    create reference REF_EIAV_Am_MH820166    ncbi-refseqs-equine MH820166
+    create reference REF_EIAV_Am_AF028231    ncbi-refseqs-equine AF028231
+    create reference REF_EIAV_Am_AF028232    ncbi-refseqs-equine AF028232
+    create reference REF_EIAV_Am_AF247394    ncbi-refseqs-equine AF247394
+    create reference REF_EIAV_Am_M16575      ncbi-refseqs-equine M16575
+    create reference REF_EIAV_Am_M87581      ncbi-refseqs-equine M87581
+    create reference REF_EIAV_Am_NC_001450   ncbi-refseqs-equine NC_001450
+    create reference REF_EIAV_Am_U01866      ncbi-refseqs-equine U01866
 
-  
-  # Equine
-  create reference REF_EIAV_Eu1 ncbi-refseqs-equine JX480632
-  create reference REF_EIAV_Eu2 ncbi-curated-equine MT338937
-  create reference REF_EIAV_ES  ncbi-curated-equine MW924675
-  create reference REF_EIAV_UK  ncbi-curated-equine MH580898
-  create reference REF_EIAV_BR  ncbi-refseqs-equine MN560970
-  create reference REF_EIAV_As  ncbi-refseqs-equine AF327877
+    # Asian genotype
+    create reference REF_EIAV_As_GU385356    ncbi-refseqs-equine GU385356
+    create reference REF_EIAV_As_AF327877    ncbi-refseqs-equine AF327877
+    create reference REF_EIAV_As_AF327878    ncbi-refseqs-equine AF327878
+    create reference REF_EIAV_As_GU385353    ncbi-refseqs-equine GU385353
+    create reference REF_EIAV_As_GU385354    ncbi-refseqs-equine GU385354
+    create reference REF_EIAV_As_GU385355    ncbi-refseqs-equine GU385355
+    create reference REF_EIAV_As_GU385357    ncbi-refseqs-equine GU385357
+    create reference REF_EIAV_As_GU385358    ncbi-refseqs-equine GU385358
+    create reference REF_EIAV_As_GU385359    ncbi-refseqs-equine GU385359
+    create reference REF_EIAV_As_GU385360    ncbi-refseqs-equine GU385360
+    create reference REF_EIAV_As_GU385361    ncbi-refseqs-equine GU385361
+    create reference REF_EIAV_As_GU385362    ncbi-refseqs-equine GU385362
+    create reference REF_EIAV_As_GU385363    ncbi-refseqs-equine GU385363
+    create reference REF_EIAV_As_GU385364    ncbi-refseqs-equine GU385364
+    create reference REF_EIAV_As_GU385365    ncbi-refseqs-equine GU385365
+    create reference REF_EIAV_As_HM141909    ncbi-refseqs-equine HM141909
+    create reference REF_EIAV_As_HM141910    ncbi-refseqs-equine HM141910
+    create reference REF_EIAV_As_HM141911    ncbi-refseqs-equine HM141911
+    create reference REF_EIAV_As_HM141912    ncbi-refseqs-equine HM141912
+    create reference REF_EIAV_As_HM141913    ncbi-refseqs-equine HM141913
+    create reference REF_EIAV_As_HM141914    ncbi-refseqs-equine HM141914
+    create reference REF_EIAV_As_HM141915    ncbi-refseqs-equine HM141915
+    create reference REF_EIAV_As_HM141916    ncbi-refseqs-equine HM141916
+    create reference REF_EIAV_As_HM141917    ncbi-refseqs-equine HM141917
+    create reference REF_EIAV_As_HM141918    ncbi-refseqs-equine HM141918
+    create reference REF_EIAV_As_HM141919    ncbi-refseqs-equine HM141919
+    create reference REF_EIAV_As_HM141920    ncbi-refseqs-equine HM141920
+    create reference REF_EIAV_As_HM141921    ncbi-refseqs-equine HM141921
+    create reference REF_EIAV_As_HM141922    ncbi-refseqs-equine HM141922
+    create reference REF_EIAV_As_HM141923    ncbi-refseqs-equine HM141923
+    create reference REF_EIAV_As_JX003263    ncbi-refseqs-equine JX003263
 
+    # Brazilian genotype
+    create reference REF_EIAV_Br_MN560971    ncbi-refseqs-equine MN560971
+    create reference REF_EIAV_Br_MN560970    ncbi-refseqs-equine MN560970
+    create reference REF_EIAV_Br_ON615427    ncbi-refseqs-equine ON615427
 
-  ## Feature Annotations
+    # European 1 genotype
+    create reference REF_EIAV_Eu1_JX480632   ncbi-refseqs-equine JX480632
+    create reference REF_EIAV_Eu1_KM247554   ncbi-refseqs-equine KM247554
+    create reference REF_EIAV_Eu1_KM247555   ncbi-refseqs-equine KM247555
+    create reference REF_EIAV_Eu1_JX480631   ncbi-refseqs-equine JX480631
+    create reference REF_EIAV_Eu1_JX480633   ncbi-refseqs-equine JX480633
+    create reference REF_EIAV_Eu1_JX480634   ncbi-refseqs-equine JX480634
+    create reference REF_EIAV_Eu1_MH580897   ncbi-refseqs-equine MH580897
+    create reference REF_EIAV_Eu1_MK593463   ncbi-refseqs-equine MK593463
 
-  
+    # European 2 genotype
+    create reference REF_EIAV_Eu2_MT338937   ncbi-refseqs-equine MT338937
+    create reference REF_EIAV_Eu2_MH580896   ncbi-refseqs-equine MH580896
+    create reference REF_EIAV_Eu2_MK593462   ncbi-refseqs-equine MK593462
 
+    # Spanish genotype
+    create reference REF_EIAV_Es_MW924675    ncbi-refseqs-equine MW924675
+    create reference REF_EIAV_Es_MW924676    ncbi-refseqs-equine MW924676
+    create reference REF_EIAV_Es_MW924677    ncbi-refseqs-equine MW924677
 
-  reference REF_EIAV_Eu1
-
-    add feature-location whole_genome
-    feature-location whole_genome
-      add segment 1 8275
-      exit
-
-    add feature-location 5LTR
-    feature-location 5LTR
-      add segment 1 311
-      exit
-
-    add feature-location gag
-    feature-location gag
-      add segment 455 1918
-      exit
-
-    add feature-location pro-pol
-    feature-location pro-pol
-      add segment 1672 5115
-      exit
-           
-    add feature-location env
-    feature-location env
-      add segment 5321 7945
-      exit
-
-    add feature-location tat
-    feature-location tat
-      add segment 354 449   --spliceIndex 1
-      add segment 5128 5271 --spliceIndex 2
-      exit
-
-    add feature-location rev
-    feature-location rev
-      add segment 5468 5567 --spliceIndex 1
-      add segment 7289 7692 --spliceIndex 2
-      exit
-
-    add feature-location 3LTR
-    feature-location 3LTR
-      add segment 8073 8275
-      exit
-      
-  exit 
-
-
-  reference REF_EIAV_As
-
-    add feature-location whole_genome
-    feature-location whole_genome
-      add segment 1 8235
-      exit
-
-    add feature-location 5LTR
-    feature-location 5LTR
-      add segment 1 316
-      exit
-
-    add feature-location gag
-    feature-location gag
-      add segment 713 1915
-      exit
-
-    add feature-location pro-pol
-    feature-location pro-pol
-      add segment 1708 5112
-      exit
-      
-    add feature-location s2
-    feature-location s2
-      add segment 5279 5485
-      exit
-           
-    add feature-location env
-    feature-location env
-      add segment 5305	6002 --spliceIndex 1
-      add segment 6072	7902 --spliceIndex 2
-      exit
-
-    add feature-location rev
-    feature-location rev
-      add segment 5468 5567 --spliceIndex 1
-      add segment 7289 7692 --spliceIndex 2
-      exit
-
-    add feature-location 3LTR
-    feature-location 3LTR
-      add segment 7920 8235
-      exit
-      
-  exit 
-
-
-
-
-
-
+    # UK genotype
+    create reference REF_EIAV_Uk_MH580898    ncbi-refseqs-equine MH580898
+            

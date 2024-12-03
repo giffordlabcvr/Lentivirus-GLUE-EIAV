@@ -1,43 +1,84 @@
-alignment AL_ROOT
- 
-  add member -w "source.name = 'ncbi-refseqs-equine'"
-  add member -w "source.name = 'ncbi-curated-equine'"
- 
-  demote member AL_Equine  -w "sequence.source.name = 'ncbi-refseqs-equine'" 
-  demote member AL_Equine  -w "sequence.source.name = 'ncbi-curated-equine'"
-  
-  exit
-
-
+create alignment AL_TREE_Equine -r REF_EIAV_Am
 alignment AL_TREE_Equine
-
+ 
     set field displayName "Equine lentiviruses"
-    set field clade_category subgenus  
+    set field clade_category subgenus
+
+    add member -w "source.name = 'ncbi-refseqs-equine'"
+    add member -w "source.name = 'ncbi-curated-equine'"
 
     add member --whereClause "source.name = 'ncbi-refseqs-eiav'"
     add member --whereClause "source.name = 'ncbi-refseqs-core' and species = 'EIAV'"
    
-    extract child AL_TREE_EIAV_Am --refName REF_EIAV_Am
-    demote member AL_TREE_EIAV_Am --whereClause "sequence.genotype = 'American'" 
+    extract child AL_TREE_EIAV_Am --refName REF_EIAV_Am_AB008196
+    demote member AL_TREE_EIAV_Am --whereClause "sequence.genotype = 'American'"
    
-    extract child AL_TREE_EIAV_As --refName REF_EIAV_As
-    demote member AL_TREE_EIAV_As --whereClause "sequence.genotype = 'Asian'" 
+    extract child AL_TREE_EIAV_As --refName REF_EIAV_As_GU385356
+    demote member AL_TREE_EIAV_As --whereClause "sequence.genotype = 'Asian'"
    
-    extract child AL_TREE_EIAV_Eu1 --refName REF_EIAV_Eu1
-    demote member AL_TREE_EIAV_Eu1 --whereClause "sequence.genotype = 'European1'" 
+    extract child AL_TREE_EIAV_Eu1 --refName REF_EIAV_Eu1_JX480632
+    demote member AL_TREE_EIAV_Eu1 --whereClause "sequence.genotype = 'European1'"
 
-    extract child AL_TREE_EIAV_Eu2 --refName REF_EIAV_Eu2
-    demote member AL_TREE_EIAV_Eu2 --whereClause "sequence.genotype = 'European2'" 
+    extract child AL_TREE_EIAV_Eu2 --refName REF_EIAV_Eu2_MT338937
+    demote member AL_TREE_EIAV_Eu2 --whereClause "sequence.genotype = 'European2'"
    
-    extract child AL_TREE_EIAV_ES --refName REF_EIAV_ES
-    demote member AL_TREE_EIAV_ES --whereClause "sequence.genotype = 'Spain'" 
+    extract child AL_TREE_EIAV_ES --refName REF_EIAV_Es_MW924675
+    demote member AL_TREE_EIAV_ES --whereClause "sequence.genotype = 'Spain'"
 
-    extract child AL_TREE_EIAV_BR --refName REF_EIAV_BR
-    demote member AL_TREE_EIAV_BR --whereClause "sequence.genotype = 'Brazil'" 
+    extract child AL_TREE_EIAV_BR --refName REF_EIAV_Br_MN560971
+    demote member AL_TREE_EIAV_BR --whereClause "sequence.genotype = 'Brazil'"
 
-    extract child AL_TREE_EIAV_UK --refName REF_EIAV_UK
-    demote member AL_TREE_EIAV_UK --whereClause "sequence.genotype = 'UK'" 
+    extract child AL_TREE_EIAV_UK --refName REF_EIAV_Uk_MH580898
+    demote member AL_TREE_EIAV_UK --whereClause "sequence.genotype = 'UK'"
 
     exit
 
+alignment AL_TREE_EIAV_Am
+ 
+    set field displayName "American"
+    set field clade_category genotype
+ 
+    exit
+
+alignment AL_TREE_EIAV_As
+
+    set field displayName "Asian"
+    set field clade_category genotype
+
+    exit
+
+alignment AL_TREE_EIAV_Eu1
+
+    set field displayName "European 1"
+    set field clade_category genotype
+
+    exit
+    
+alignment AL_TREE_EIAV_Eu2
+
+    set field displayName "European 2"
+    set field clade_category genotype
+
+    exit
+
+alignment AL_TREE_EIAV_ES
+
+    set field displayName "Spanish"
+    set field clade_category genotype
+
+    exit
+
+alignment AL_TREE_EIAV_BR
+
+    set field displayName "Brazilian"
+    set field clade_category genotype
+
+    exit
+
+alignment AL_TREE_EIAV_UK
+
+    set field displayName "UK"
+    set field clade_category genotype
+
+    exit
 

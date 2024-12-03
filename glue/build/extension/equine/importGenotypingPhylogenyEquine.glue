@@ -1,13 +1,13 @@
-  delete module srlvPhyloImporter
-  create module -f  modules/build/extension/srlv/srlvPhyloImporter.xml
+  delete module equinePhyloImporter
+  create module -f  modules/build/extension/equine/equinePhyloImporter.xml
 
-  module srlvPhyloImporter
+  module equinePhyloImporter
 
-	import phylogeny AL_TREE_OvineCaprine \
+	import phylogeny AL_TREE_Equine \
 	--recursive  \
 	--anyAlignment  \
 	--whereClause "sequence.referenceSequences.name != null and referenceMember = false"  \
-	--inputFile trees/internal/srlvReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS  \
+	--inputFile trees/eiavReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS  \
 	--fieldName phylogeny
 
 	exit

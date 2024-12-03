@@ -1,0 +1,10 @@
+delete alignment AL_UNC_TREE_Equine
+delete module eiavTreeAlignmentImporterNucs
+
+create module -f modules/analysis/phylogeny/extension/eiav/eiavTreeAlignmentImporterNucs.xml
+module eiavTreeAlignmentImporterNucs
+
+    import AL_UNC_TREE_Equine -f alignments/eiav-genomes.aln.fasta
+    exit
+
+

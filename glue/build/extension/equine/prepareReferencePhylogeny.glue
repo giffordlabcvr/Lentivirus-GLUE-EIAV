@@ -8,7 +8,7 @@
   # Export annotations
   module figTreeAnnotationExporterEiav 
   
-    export figtree-annotation AL_TREE_Equine_Temp \
+    export figtree-annotation AL_UNC_TREE_Equine \
         -f trees/eiavReferenceFigtreeAnnotations.txt
 
     exit
