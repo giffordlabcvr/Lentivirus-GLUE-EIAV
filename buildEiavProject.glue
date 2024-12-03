@@ -1,18 +1,14 @@
 
-  # Build species-level extension projects
+  # Equine lentivirus extension project build
   
-  # Equine lentiviruses
-
   project lentivirus
-
-    # Delete previous extension build
-    #run file glue/build/extension/equine/deleteExtensionBuildEquine.glue
 
     # Import sources
     run file glue/build/extension/equine/sourcesEquine.glue
 
     # Define extension references
     run file glue/build/extension/equine/referencesEquine.glue
+    run file glue/build/extension/equine/explicitFeatureLocationsEquine.glue
 
     # Extract and import isolate data for extension sequences
     run file glue/build/extension/equine/importIsolateDataEquine.glue
@@ -30,7 +26,7 @@
 	run file glue/build/extension/equine/recordFeaturePresenceEquine.glue
 
 	# Import reference phylogeny
-	run file glue/build/extension/srlv/importGenotypingPhylogenyEquine.glue
+	run file glue/build/extension/equine/importGenotypingPhylogenyEquine.glue
 
 	# Validate
 	validate
