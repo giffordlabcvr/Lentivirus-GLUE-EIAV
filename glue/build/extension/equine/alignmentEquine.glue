@@ -1,10 +1,12 @@
 #~# Import unconstrained reference alignments
+delete module eiavTreeAlignmentImporterNucs
+create module -f modules/analysis/phylogeny/extension/eiav/eiavTreeAlignmentImporterNucs.xml
 
-module unconstrainedAlignmentImporter
+module eiavTreeAlignmentImporterNucs
 
   #~# Equine group
   
-  import AL_UNC_Equine -f alignments/internal/equine-group.aln.fna
+  import AL_UNC_Equine -f alignments/eiav-genomes.aln.fasta
 
   exit
 

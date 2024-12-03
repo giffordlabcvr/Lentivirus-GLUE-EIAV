@@ -1,64 +1,64 @@
 taxon	sequenceID	combined	pubmed_id	source	name	isolate	country	subtype	genotype	collection_year
-alignment/AL_TREE_Equine_Temp/member/ncbi-curated-equine/AB008196	AB008196	AB008196/American/-/-/-/V70	10930666	ncbi-curated-equine	EIAV	V70	-	-	American	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-curated-equine/AB008197	AB008197	AB008197/American/-/-/-/V26	10930666	ncbi-curated-equine	EIAV	V26	-	-	American	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-core/AF016316	AF016316	AF016316/American/American/United States/-/NK	9445039	ncbi-refseqs-core	EIAV	NK	United States	American	American	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/AF028231	AF028231	AF028231/American/-/-/-/-	-	ncbi-refseqs-equine	EIAV	-	-	-	American	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/AF028232	AF028232	AF028232/American/-/-/-/-	9420249	ncbi-refseqs-equine	EIAV	-	-	-	American	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/AF247394	AF247394	AF247394/American/-/-/-/-	11038386	ncbi-refseqs-equine	EIAV	-	-	-	American	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/AF327877	AF327877	AF327877/Asian/-/-/-/Liaoning	16932982	ncbi-refseqs-equine	EIAV	Liaoning	-	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/AF327878	AF327878	AF327878/Asian/-/-/-/-	16932982	ncbi-refseqs-equine	EIAV	-	-	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/GU385353	GU385353	GU385353/Asian/-/China/-/FDDV-5	21136127	ncbi-refseqs-equine	EIAV	FDDV-5	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/GU385354	GU385354	GU385354/Asian/-/China/-/FDDV-6	21136127	ncbi-refseqs-equine	EIAV	FDDV-6	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/GU385355	GU385355	GU385355/Asian/-/China/-/FDDV-2	21136127	ncbi-refseqs-equine	EIAV	FDDV-2	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-curated-equine/GU385356	GU385356	GU385356/Asian/-/China/-/FDDV-15-4	21136127	ncbi-curated-equine	EIAV	FDDV-15-4	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/GU385357	GU385357	GU385357/Asian/-/China/-/FDDV-7	21136127	ncbi-refseqs-equine	EIAV	FDDV-7	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/GU385358	GU385358	GU385358/Asian/-/China/-/FDDV-8	21136127	ncbi-refseqs-equine	EIAV	FDDV-8	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/GU385359	GU385359	GU385359/Asian/-/China/-/FDDV-9	21136127	ncbi-refseqs-equine	EIAV	FDDV-9	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/GU385360	GU385360	GU385360/Asian/-/China/-/FDDV-10	21136127	ncbi-refseqs-equine	EIAV	FDDV-10	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/GU385361	GU385361	GU385361/Asian/-/China/-/FDDV3-8TM	21136127	ncbi-refseqs-equine	EIAV	FDDV3-8TM	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/GU385362	GU385362	GU385362/Asian/-/China/-/LN-1	21136127	ncbi-refseqs-equine	EIAV	LN-1	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/GU385363	GU385363	GU385363/Asian/-/China/-/LN-3	21136127	ncbi-refseqs-equine	EIAV	LN-3	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/GU385364	GU385364	GU385364/Asian/-/China/-/LN-4	21136127	ncbi-refseqs-equine	EIAV	LN-4	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/GU385365	GU385365	GU385365/Asian/-/China/-/LN-5	21136127	ncbi-refseqs-equine	EIAV	LN-5	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/HM141909	HM141909	HM141909/Asian/-/China/-/DV3-5	21136127	ncbi-refseqs-equine	EIAV	DV3-5	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/HM141910	HM141910	HM141910/Asian/-/China/-/DV10-3	21136127	ncbi-refseqs-equine	EIAV	DV10-3	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/HM141911	HM141911	HM141911/Asian/-/China/-/DV35-20	21136127	ncbi-refseqs-equine	EIAV	DV35-20	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/HM141912	HM141912	HM141912/Asian/-/China/-/DV117	21136127	ncbi-refseqs-equine	EIAV	DV117	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/HM141913	HM141913	HM141913/Asian/-/China/-/DLV3-A	21136127	ncbi-refseqs-equine	EIAV	DLV3-A	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/HM141914	HM141914	HM141914/Asian/-/China/-/DLV7-18	21136127	ncbi-refseqs-equine	EIAV	DLV7-18	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/HM141915	HM141915	HM141915/Asian/-/China/-/DLV8-2	21136127	ncbi-refseqs-equine	EIAV	DLV8-2	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/HM141916	HM141916	HM141916/Asian/-/China/-/DLV10-19	21136127	ncbi-refseqs-equine	EIAV	DLV10-19	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/HM141917	HM141917	HM141917/Asian/-/China/-/DLV19-9	21136127	ncbi-refseqs-equine	EIAV	DLV19-9	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/HM141918	HM141918	HM141918/Asian/-/China/-/DLV15-16	21136127	ncbi-refseqs-equine	EIAV	DLV15-16	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/HM141919	HM141919	HM141919/Asian/-/China/-/DV31-2	21136127	ncbi-refseqs-equine	EIAV	DV31-2	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/HM141920	HM141920	HM141920/Asian/-/China/-/DLV2-6	21136127	ncbi-refseqs-equine	EIAV	DLV2-6	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/HM141921	HM141921	HM141921/Asian/-/China/-/DLV5-10	21136127	ncbi-refseqs-equine	EIAV	DLV5-10	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/HM141922	HM141922	HM141922/Asian/-/China/-/DLV9-7	21136127	ncbi-refseqs-equine	EIAV	DLV9-7	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/HM141923	HM141923	HM141923/Asian/-/China/-/DLV18-8	21136127	ncbi-refseqs-equine	EIAV	DLV18-8	China	-	Asian	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/JX003263	JX003263	JX003263/Asian/-/Japan/2011/Miyazaki2011-A	23100364	ncbi-refseqs-equine	EIAV	Miyazaki2011-A	Japan	-	Asian	2011
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/JX480631	JX480631	JX480631/European1/-/Ireland/2006/F2	23175240	ncbi-refseqs-equine	EIAV	F2	Ireland	-	European1	2006
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/JX480632	JX480632	JX480632/European1/-/Ireland/2006/F3	23175240	ncbi-refseqs-equine	EIAV	F3	Ireland	-	European1	2006
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/JX480633	JX480633	JX480633/European1/-/Ireland/2006/F4	23175240	ncbi-refseqs-equine	EIAV	F4	Ireland	-	European1	2006
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/JX480634	JX480634	JX480634/European1/-/Ireland/2006/H3	23175240	ncbi-refseqs-equine	EIAV	H3	Ireland	-	European1	2006
-alignment/AL_TREE_Equine_Temp/member/ncbi-curated-equine/KM247554	KM247554	KM247554/European1/-/Italy/-/DE	-	ncbi-curated-equine	EIAV	DE	Italy	-	European1	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-curated-equine/KM247555	KM247555	KM247555/European1/-/Italy/-/SA	-	ncbi-curated-equine	EIAV	SA	Italy	-	European1	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/M16575	M16575	M16575/American/-/-/-/-	-	ncbi-refseqs-equine	EIAV	-	-	-	American	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/M87581	M87581	M87581/American/-/-/-/Malmquist of Wyoming adapted to Cf2th cells	1318398	ncbi-refseqs-equine	EIAV	Malmquist of Wyoming adapted to Cf2th cells	-	-	American	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/MH580896	MH580896	MH580896/European2/-/United Kingdom/1975/Newmarket	-	ncbi-refseqs-equine	EIAV	Newmarket	United Kingdom	-	European2	1975
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/MH580897	MH580897	MH580897/European1/-/United Kingdom/2010/Devon	-	ncbi-refseqs-equine	EIAV	Devon	United Kingdom	-	European1	2010
-alignment/AL_TREE_Equine_Temp/member/ncbi-curated-equine/MH580898	MH580898	MH580898/UK/-/United Kingdom/2012/Cornwall	-	ncbi-curated-equine	EIAV	Cornwall	United Kingdom	-	UK	2012
-alignment/AL_TREE_Equine_Temp/member/ncbi-curated-equine/MH820163	MH820163	MH820163/American/-/USA/2009/UKYE62_FL	-	ncbi-curated-equine	EIAV	UKYE62_FL	USA	-	American	2009
-alignment/AL_TREE_Equine_Temp/member/ncbi-curated-equine/MH820164	MH820164	MH820164/American/-/USA/2008/NC_Dagmar	-	ncbi-curated-equine	EIAV	NC_Dagmar	USA	-	American	2008
-alignment/AL_TREE_Equine_Temp/member/ncbi-curated-equine/MH820165	MH820165	MH820165/American/-/USA/2008/UKY98-07_PA_S15	-	ncbi-curated-equine	EIAV	UKY98-07_PA_S15	USA	-	American	2008
-alignment/AL_TREE_Equine_Temp/member/ncbi-curated-equine/MH820166	MH820166	MH820166/American/-/USA/2016/TN_0109	-	ncbi-curated-equine	EIAV	TN_0109	USA	-	American	2016
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/MK593462	MK593462	MK593462/European2/-/France/2014/Bau Gard co	31493650	ncbi-refseqs-equine	EIAV	Bau Gard co	France	-	European2	2014
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/MK593463	MK593463	MK593463/European1/-/France/2014/Ecl Gard co	31493650	ncbi-refseqs-equine	EIAV	Ecl Gard co	France	-	European1	2014
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/MN560970	MN560970	MN560970/Brazil/-/Brazil/2015/POCONE-BRA1	32059508	ncbi-refseqs-equine	EIAV	POCONE-BRA1	Brazil	-	Brazil	2015
-alignment/AL_TREE_Equine_Temp/member/ncbi-curated-equine/MN560971	MN560971	MN560971/Brazil/-/Brazil/2015/POCONE-BRA2	32059508	ncbi-curated-equine	EIAV	POCONE-BRA2	Brazil	-	Brazil	2015
-alignment/AL_TREE_Equine_Temp/member/ncbi-curated-equine/MT338937	MT338937	MT338937/European2/-/Serbia/2015/EIAV-SERB-1	-	ncbi-curated-equine	EIAV	EIAV-SERB-1	Serbia	-	European2	2015
-alignment/AL_TREE_Equine_Temp/member/ncbi-curated-equine/MW924675	MW924675	MW924675/Spain/-/Spain/2017/EIA-SP-1	-	ncbi-curated-equine	EIAV	EIA-SP-1	Spain	-	Spain	2017
-alignment/AL_TREE_Equine_Temp/member/ncbi-curated-equine/MW924676	MW924676	MW924676/Spain/-/Spain/2017/EIAV-SP-2	-	ncbi-curated-equine	EIAV	EIAV-SP-2	Spain	-	Spain	2017
-alignment/AL_TREE_Equine_Temp/member/ncbi-curated-equine/MW924677	MW924677	MW924677/Spain/-/Spain/2017/EIAV-SP-3	-	ncbi-curated-equine	EIAV	EIAV-SP-3	Spain	-	Spain	2017
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/NC_001450	NC_001450	NC_001450/American/-/-/-/-	-	ncbi-refseqs-equine	EIAV	-	-	-	American	-
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/ON615427	ON615427	ON615427/Brazil/-/Brazil/2014/122B_EIAV_DonkeyBrazil	-	ncbi-refseqs-equine	EIAV	122B_EIAV_DonkeyBrazil	Brazil	-	Brazil	2014
-alignment/AL_TREE_Equine_Temp/member/ncbi-refseqs-equine/U01866	U01866	U01866/American/-/-/-/-	8113766	ncbi-refseqs-equine	EIAV	-	-	-	American	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/AB008196	AB008196	AB008196/American/-/-/-/V70	10930666	ncbi-refseqs-equine	EIAV	V70	-	-	American	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/AB008197	AB008197	AB008197/American/-/-/-/V26	10930666	ncbi-refseqs-equine	EIAV	V26	-	-	American	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-core/AF016316	AF016316	AF016316/American/American/United States/-/NK	9445039	ncbi-refseqs-core	EIAV	NK	United States	American	American	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/AF028231	AF028231	AF028231/American/-/-/-/-	-	ncbi-refseqs-equine	EIAV	-	-	-	American	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/AF028232	AF028232	AF028232/American/-/-/-/-	9420249	ncbi-refseqs-equine	EIAV	-	-	-	American	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/AF247394	AF247394	AF247394/American/-/-/-/-	11038386	ncbi-refseqs-equine	EIAV	-	-	-	American	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/AF327877	AF327877	AF327877/Asian/-/-/-/Liaoning	16932982	ncbi-refseqs-equine	EIAV	Liaoning	-	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/AF327878	AF327878	AF327878/Asian/-/-/-/-	16932982	ncbi-refseqs-equine	EIAV	-	-	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/GU385353	GU385353	GU385353/Asian/-/China/-/FDDV-5	21136127	ncbi-refseqs-equine	EIAV	FDDV-5	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/GU385354	GU385354	GU385354/Asian/-/China/-/FDDV-6	21136127	ncbi-refseqs-equine	EIAV	FDDV-6	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/GU385355	GU385355	GU385355/Asian/-/China/-/FDDV-2	21136127	ncbi-refseqs-equine	EIAV	FDDV-2	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/GU385356	GU385356	GU385356/Asian/-/China/-/FDDV-15-4	21136127	ncbi-refseqs-equine	EIAV	FDDV-15-4	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/GU385357	GU385357	GU385357/Asian/-/China/-/FDDV-7	21136127	ncbi-refseqs-equine	EIAV	FDDV-7	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/GU385358	GU385358	GU385358/Asian/-/China/-/FDDV-8	21136127	ncbi-refseqs-equine	EIAV	FDDV-8	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/GU385359	GU385359	GU385359/Asian/-/China/-/FDDV-9	21136127	ncbi-refseqs-equine	EIAV	FDDV-9	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/GU385360	GU385360	GU385360/Asian/-/China/-/FDDV-10	21136127	ncbi-refseqs-equine	EIAV	FDDV-10	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/GU385361	GU385361	GU385361/Asian/-/China/-/FDDV3-8TM	21136127	ncbi-refseqs-equine	EIAV	FDDV3-8TM	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/GU385362	GU385362	GU385362/Asian/-/China/-/LN-1	21136127	ncbi-refseqs-equine	EIAV	LN-1	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/GU385363	GU385363	GU385363/Asian/-/China/-/LN-3	21136127	ncbi-refseqs-equine	EIAV	LN-3	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/GU385364	GU385364	GU385364/Asian/-/China/-/LN-4	21136127	ncbi-refseqs-equine	EIAV	LN-4	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/GU385365	GU385365	GU385365/Asian/-/China/-/LN-5	21136127	ncbi-refseqs-equine	EIAV	LN-5	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/HM141909	HM141909	HM141909/Asian/-/China/-/DV3-5	21136127	ncbi-refseqs-equine	EIAV	DV3-5	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/HM141910	HM141910	HM141910/Asian/-/China/-/DV10-3	21136127	ncbi-refseqs-equine	EIAV	DV10-3	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/HM141911	HM141911	HM141911/Asian/-/China/-/DV35-20	21136127	ncbi-refseqs-equine	EIAV	DV35-20	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/HM141912	HM141912	HM141912/Asian/-/China/-/DV117	21136127	ncbi-refseqs-equine	EIAV	DV117	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/HM141913	HM141913	HM141913/Asian/-/China/-/DLV3-A	21136127	ncbi-refseqs-equine	EIAV	DLV3-A	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/HM141914	HM141914	HM141914/Asian/-/China/-/DLV7-18	21136127	ncbi-refseqs-equine	EIAV	DLV7-18	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/HM141915	HM141915	HM141915/Asian/-/China/-/DLV8-2	21136127	ncbi-refseqs-equine	EIAV	DLV8-2	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/HM141916	HM141916	HM141916/Asian/-/China/-/DLV10-19	21136127	ncbi-refseqs-equine	EIAV	DLV10-19	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/HM141917	HM141917	HM141917/Asian/-/China/-/DLV19-9	21136127	ncbi-refseqs-equine	EIAV	DLV19-9	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/HM141918	HM141918	HM141918/Asian/-/China/-/DLV15-16	21136127	ncbi-refseqs-equine	EIAV	DLV15-16	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/HM141919	HM141919	HM141919/Asian/-/China/-/DV31-2	21136127	ncbi-refseqs-equine	EIAV	DV31-2	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/HM141920	HM141920	HM141920/Asian/-/China/-/DLV2-6	21136127	ncbi-refseqs-equine	EIAV	DLV2-6	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/HM141921	HM141921	HM141921/Asian/-/China/-/DLV5-10	21136127	ncbi-refseqs-equine	EIAV	DLV5-10	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/HM141922	HM141922	HM141922/Asian/-/China/-/DLV9-7	21136127	ncbi-refseqs-equine	EIAV	DLV9-7	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/HM141923	HM141923	HM141923/Asian/-/China/-/DLV18-8	21136127	ncbi-refseqs-equine	EIAV	DLV18-8	China	-	Asian	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/JX003263	JX003263	JX003263/Asian/-/Japan/2011/Miyazaki2011-A	23100364	ncbi-refseqs-equine	EIAV	Miyazaki2011-A	Japan	-	Asian	2011
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/JX480631	JX480631	JX480631/European1/-/Ireland/2006/F2	23175240	ncbi-refseqs-equine	EIAV	F2	Ireland	-	European1	2006
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/JX480632	JX480632	JX480632/European1/-/Ireland/2006/F3	23175240	ncbi-refseqs-equine	EIAV	F3	Ireland	-	European1	2006
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/JX480633	JX480633	JX480633/European1/-/Ireland/2006/F4	23175240	ncbi-refseqs-equine	EIAV	F4	Ireland	-	European1	2006
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/JX480634	JX480634	JX480634/European1/-/Ireland/2006/H3	23175240	ncbi-refseqs-equine	EIAV	H3	Ireland	-	European1	2006
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/KM247554	KM247554	KM247554/European1/-/Italy/-/DE	-	ncbi-refseqs-equine	EIAV	DE	Italy	-	European1	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/KM247555	KM247555	KM247555/European1/-/Italy/-/SA	-	ncbi-refseqs-equine	EIAV	SA	Italy	-	European1	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/M16575	M16575	M16575/American/-/-/-/-	-	ncbi-refseqs-equine	EIAV	-	-	-	American	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/M87581	M87581	M87581/American/-/-/-/Malmquist of Wyoming adapted to Cf2th cells	1318398	ncbi-refseqs-equine	EIAV	Malmquist of Wyoming adapted to Cf2th cells	-	-	American	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/MH580896	MH580896	MH580896/European2/-/United Kingdom/1975/Newmarket	-	ncbi-refseqs-equine	EIAV	Newmarket	United Kingdom	-	European2	1975
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/MH580897	MH580897	MH580897/European1/-/United Kingdom/2010/Devon	-	ncbi-refseqs-equine	EIAV	Devon	United Kingdom	-	European1	2010
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/MH580898	MH580898	MH580898/UK/-/United Kingdom/2012/Cornwall	-	ncbi-refseqs-equine	EIAV	Cornwall	United Kingdom	-	UK	2012
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/MH820163	MH820163	MH820163/American/-/USA/2009/UKYE62_FL	-	ncbi-refseqs-equine	EIAV	UKYE62_FL	USA	-	American	2009
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/MH820164	MH820164	MH820164/American/-/USA/2008/NC_Dagmar	-	ncbi-refseqs-equine	EIAV	NC_Dagmar	USA	-	American	2008
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/MH820165	MH820165	MH820165/American/-/USA/2008/UKY98-07_PA_S15	-	ncbi-refseqs-equine	EIAV	UKY98-07_PA_S15	USA	-	American	2008
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/MH820166	MH820166	MH820166/American/-/USA/2016/TN_0109	-	ncbi-refseqs-equine	EIAV	TN_0109	USA	-	American	2016
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/MK593462	MK593462	MK593462/European2/-/France/2014/Bau Gard co	31493650	ncbi-refseqs-equine	EIAV	Bau Gard co	France	-	European2	2014
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/MK593463	MK593463	MK593463/European1/-/France/2014/Ecl Gard co	31493650	ncbi-refseqs-equine	EIAV	Ecl Gard co	France	-	European1	2014
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/MN560970	MN560970	MN560970/Brazil/-/Brazil/2015/POCONE-BRA1	32059508	ncbi-refseqs-equine	EIAV	POCONE-BRA1	Brazil	-	Brazil	2015
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/MN560971	MN560971	MN560971/Brazil/-/Brazil/2015/POCONE-BRA2	32059508	ncbi-refseqs-equine	EIAV	POCONE-BRA2	Brazil	-	Brazil	2015
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/MT338937	MT338937	MT338937/European2/-/Serbia/2015/EIAV-SERB-1	-	ncbi-refseqs-equine	EIAV	EIAV-SERB-1	Serbia	-	European2	2015
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/MW924675	MW924675	MW924675/Spain/-/Spain/2017/EIA-SP-1	-	ncbi-refseqs-equine	EIAV	EIA-SP-1	Spain	-	Spain	2017
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/MW924676	MW924676	MW924676/Spain/-/Spain/2017/EIAV-SP-2	-	ncbi-refseqs-equine	EIAV	EIAV-SP-2	Spain	-	Spain	2017
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/MW924677	MW924677	MW924677/Spain/-/Spain/2017/EIAV-SP-3	-	ncbi-refseqs-equine	EIAV	EIAV-SP-3	Spain	-	Spain	2017
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/NC_001450	NC_001450	NC_001450/American/-/-/-/-	-	ncbi-refseqs-equine	EIAV	-	-	-	American	-
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/ON615427	ON615427	ON615427/Brazil/-/Brazil/2014/122B_EIAV_DonkeyBrazil	-	ncbi-refseqs-equine	EIAV	122B_EIAV_DonkeyBrazil	Brazil	-	Brazil	2014
+alignment/AL_UNC_TREE_Equine/member/ncbi-refseqs-equine/U01866	U01866	U01866/American/-/-/-/-	8113766	ncbi-refseqs-equine	EIAV	-	-	-	American	-
