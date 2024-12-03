@@ -10,7 +10,7 @@ The EIAV extension to EIAV-GLUE incorporates all published EIAV sequence data li
 
 The EIAV extension of Lentivirus-GLUE provides functionality for genotyping EIAV sequences via **maximum likelihood**. Genotyping can be performed on any sequence of adequate length (typically >300 nucleotides are required for confident assignment). Any genomic region can be genotyped using the approach implemented in EIAV-GLUE.
 
-Classification is based on maximum likelihood clade assignment (MLCA) as implemented in GLUE. Sequences are classified into genotypes and subtypes defined via phylogenetic analysis of full-length reference genome sequences.
+Classification is based on maximum likelihood clade assignment (MLCA) as implemented in GLUE. Sequences are classified into genotypes defined via phylogenetic analysis of full-length reference genome sequences.
 
 For more details on the EIAV extension project please see the Lentivirus-GLUE **[User Guide](https://github.com/giffordlabcvr/Lentivirus-GLUE/wiki/EIAV-Project-Development-Background)**.
 
