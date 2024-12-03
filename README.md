@@ -20,7 +20,7 @@ For more details on the EIAV extension project please see the Lentivirus-GLUE **
 Installation
 ------------
 
-To install **Lentivirus-GLUE-ERV**, follow the instructions provided in the **[User Guide](https://github.com/giffordlabcvr/Lentivirus-GLUE/wiki)**.
+To install **Lentivirus-GLUE-EIAV**, follow the instructions provided in the **[User Guide](https://github.com/giffordlabcvr/Lentivirus-GLUE/wiki)**.
 
 You can choose between:
 
