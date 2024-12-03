@@ -2,7 +2,9 @@
   # Equine lentivirus extension project build
   
   project lentivirus
-
+    # Create modules
+    run file glue/build/extension/equine/modulesEquine.glue
+    
     # Import sources
     run file glue/build/extension/equine/sourcesEquine.glue
 

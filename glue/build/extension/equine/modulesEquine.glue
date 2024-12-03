@@ -1,0 +1,4 @@
+ 
+  # Import GenBank sequences 
+  create module -f modules/build/extension/equine/eiavMaxLikelihoodPlacer.xml 
+  create module -f modules/build/extension/equine/eiavMaxLikelihoodGenotyper.xml 
