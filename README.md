@@ -27,7 +27,7 @@ You can choose between:
 -   **[Docker-based installation](https://github.com/giffordlabcvr/Lentivirus-GLUE/wiki/Docker-Installation)** for ease of deployment.
 -   **[Native installation](https://github.com/giffordlabcvr/Lentivirus-GLUE/wiki/Native-Installation)** for traditional setup.
 
-Lentivirus-GLUE-ERV can be installed as a prebuilt database for quick setup or constructed from scratch via (a project build process) for more customization.
+Lentivirus-GLUE-EIAV can be installed as a prebuilt database for quick setup or constructed from scratch via (a project build process) for more customization.
 
 * * * * *
 
