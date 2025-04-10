@@ -1,4 +1,3 @@
  
   # Import GenBank sequences 
   import source sources/virus/extension/equine/ncbi-refseqs-equine
-  import source sources/virus/extension/equine/ncbi-nuccore-equine

@@ -1,0 +1,35 @@
+
+  # Equine lentivirus project extension
+  project lentivirus
+
+    # Import nuccore sequences
+    import source sources/virus/extension/equine/ncbi-nuccore-equine
+
+    # Link nuccore sequences to isolate data
+    run script glue/build/extension/equine/linkIsolateNuccoreSeqsEquine.js
+
+    # Extract data from the XML files
+    delete module genbankXmlPopulatorEquine
+    create module -f modules/build/extension/equine/genbankXmlPopulatorEquine.xml
+    module genbankXmlPopulatorEquine populate -w "source.name = 'ncbi-nuccore-equine'"
+
+    # Import previously computed genotypes
+    delete module sideDataImporterEquineGenotypes
+    create module -f modules/build/extension/equine/sideDataImporterEquineGenotypes.xml
+    module sideDataImporterEquineGenotypes
+        populate -f tabular/extension/equine/eiav-nuccore-genotypes.tsv
+        exit
+
+    # Genotype nuccore sequences
+    #run script glue/build/extension/equine/doRaxmlGenotyping.js
+
+    # Add nuccore sequences to equine lentivirus alignment tree
+    run file glue/build/extension/equine/extendAlignmentTreeEquine.glue
+
+	# Compute alignment rows for nuccore sequences
+	run file glue/build/extension/equine/computeNuccoreAlignmentRows.glue
+
+    # Record feature presence in constrained alignments
+    run file glue/build/extension/equine/recordFeaturePresenceEquine.glue
+
+    exit

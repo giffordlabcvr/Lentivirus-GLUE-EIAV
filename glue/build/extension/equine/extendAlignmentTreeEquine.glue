@@ -1,0 +1,13 @@
+alignment AL_TREE_Equine
+ 
+    add member -w "species = 'EIAV' and source.name = 'ncbi-nuccore-equine'"
+
+    demote member AL_TREE_EIAV_GlobalFca --whereClause "sequence.genotype = 'GlobalFca' and sequence.source.name = 'ncbi-nuccore-equine'"
+    demote member AL_TREE_EIAV_Canada    --whereClause "sequence.genotype = 'Canada' and sequence.source.name = 'ncbi-nuccore-equine'"
+    demote member AL_TREE_EIAV_Africa    --whereClause "sequence.genotype = 'Africa' and sequence.source.name = 'ncbi-nuccore-equine'"
+    demote member AL_TREE_EIAV_Asia      --whereClause "sequence.genotype = 'Asia' and sequence.source.name = 'ncbi-nuccore-equine'"
+    demote member AL_TREE_EIAV_SA        --whereClause "sequence.genotype = 'SA' and sequence.source.name = 'ncbi-nuccore-equine'"
+    demote member AL_TREE_EIAV_NA_A      --whereClause "sequence.genotype = 'NA_A' and sequence.source.name = 'ncbi-nuccore-equine'"
+    demote member AL_TREE_EIAV_NA_B      --whereClause "sequence.genotype = 'NA_B' and sequence.source.name = 'ncbi-nuccore-equine'"
+
+    exit

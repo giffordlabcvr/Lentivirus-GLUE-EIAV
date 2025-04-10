@@ -4,7 +4,6 @@
 
 	# Link extension set sequences to isolate data
 	run script glue/build/extension/equine/linkIsolateExtensionRefseqsEquine.js
-	run script glue/build/extension/equine/linkIsolateExtensionNuccoreEquine.js
 
 	# Extract data from the XML files
 	module genbankXmlPopulatorEquine populate -w "source.name like '%-equine'"

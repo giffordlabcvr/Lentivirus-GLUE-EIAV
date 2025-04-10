@@ -1,0 +1,9 @@
+compute alignment AL_TREE_Feline       lentiCompoundAligner -w "sequence.source.name = 'ncbi-nuccore-feline'"
+
+compute alignment AL_TREE_FIV_Africa    lentiCompoundAligner -w "sequence.source.name = 'ncbi-nuccore-feline'"
+compute alignment AL_TREE_FIV_Asia      lentiCompoundAligner -w "sequence.source.name = 'ncbi-nuccore-feline'"
+compute alignment AL_TREE_FIV_Canada    lentiCompoundAligner -w "sequence.source.name = 'ncbi-nuccore-feline'"
+compute alignment AL_TREE_FIV_GlobalFca lentiCompoundAligner -w "sequence.source.name = 'ncbi-nuccore-feline'"
+compute alignment AL_TREE_FIV_NA_A      lentiCompoundAligner -w "sequence.source.name = 'ncbi-nuccore-feline'"
+compute alignment AL_TREE_FIV_NA_B      lentiCompoundAligner -w "sequence.source.name = 'ncbi-nuccore-feline'"
+compute alignment AL_TREE_FIV_SA        lentiCompoundAligner -w "sequence.source.name = 'ncbi-nuccore-feline'"
