@@ -6,3 +6,10 @@
 
   # Compute alignments
   compute alignment AL_Equine eiavCompoundAligner
+  compute alignment AL_TREE_EIAV_Am eiavCompoundAligner
+  compute alignment AL_TREE_EIAV_As eiavCompoundAligner
+  compute alignment AL_TREE_EIAV_BR eiavCompoundAligner
+  compute alignment AL_TREE_EIAV_ES eiavCompoundAligner
+  compute alignment AL_TREE_EIAV_Eu1 eiavCompoundAligner
+  compute alignment AL_TREE_EIAV_Eu2 eiavCompoundAligner
+  compute alignment AL_TREE_EIAV_UK eiavCompoundAligner

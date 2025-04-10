@@ -110,6 +110,11 @@
     feature-location pro-pol
       add segment 1708 5112
       exit
+
+    add feature-location s1
+    feature-location s1
+      add segment 5113 5268
+      exit 
       
     add feature-location s2
     feature-location s2
@@ -219,6 +224,48 @@
       add segment 1 8179
       exit
 
+    add feature-location 5LTR
+    feature-location 5LTR
+      add segment 1 299
+      exit
+
+    add feature-location gag
+    feature-location gag
+      add segment 443 1900
+      exit
+
+    add feature-location pro-pol
+    feature-location pro-pol
+      add segment 1690 5097
+      exit
+           
+    add feature-location s2
+    feature-location s2
+      add segment 5264 5470
+      exit
+
+    add feature-location tat
+    feature-location tat
+      add segment 342 437 --spliceIndex 1
+      add segment 5110 5253 --spliceIndex 2
+      exit
+
+    add feature-location env
+    feature-location env
+      add segment 5290 7863
+      exit
+
+    add feature-location rev
+    feature-location rev
+      add segment 5428 5530 --spliceIndex 1
+      add segment 7213 7613 --spliceIndex 2
+      exit
+
+    add feature-location 3LTR
+    feature-location 3LTR
+      add segment 7881 8179
+      exit
+
   exit 
 
   reference REF_EIAV_Uk_MH580898
@@ -228,6 +275,41 @@
       add segment 1 7686
       exit
 
-  exit 
+    add feature-location 5LTR
+    feature-location 5LTR
+      add segment 1 120
+      exit
 
+    add feature-location gag
+    feature-location gag
+      add segment 231 1691
+      exit
+
+    add feature-location pro-pol
+    feature-location pro-pol
+      add segment 1478 4888
+      exit
+           
+    add feature-location s2
+    feature-location s2
+      add segment 5055 5258
+      exit
+                    
+    add feature-location env
+    feature-location env
+      add segment 5081 7648
+      exit
+
+    add feature-location rev
+    feature-location rev
+      add segment 5228 5306 --spliceIndex 1
+      add segment 6992 7398 --spliceIndex 2
+      exit
+
+    add feature-location 3LTR
+    feature-location 3LTR
+      add segment 7399 7686
+      exit
+
+  exit 
 

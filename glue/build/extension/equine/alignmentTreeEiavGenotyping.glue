@@ -13,7 +13,7 @@ alignment AL_TREE_Equine
     extract child AL_TREE_EIAV_Am --refName REF_EIAV_Am_AB008196
     demote member AL_TREE_EIAV_Am --whereClause "sequence.genotype = 'American'"
    
-    extract child AL_TREE_EIAV_As --refName REF_EIAV_As_GU385356
+    extract child AL_TREE_EIAV_As --refName REF_EIAV_As_AF327877
     demote member AL_TREE_EIAV_As --whereClause "sequence.genotype = 'Asian'"
    
     extract child AL_TREE_EIAV_Eu1 --refName REF_EIAV_Eu1_JX480632

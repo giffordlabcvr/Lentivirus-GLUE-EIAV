@@ -3,7 +3,7 @@
 
   module lentiFeaturePresenceRecorder 
 
-    record feature-presence AL_Equine --featureName whole_genome --descendentFeatures
+    record feature-presence AL_TREE_Equine --featureName whole_genome --descendentFeatures -c
    
     exit
 
