@@ -2,12 +2,12 @@ alignment AL_TREE_Equine
  
     add member -w "species = 'EIAV' and source.name = 'ncbi-nuccore-equine'"
 
-    demote member AL_TREE_EIAV_GlobalFca --whereClause "sequence.genotype = 'GlobalFca' and sequence.source.name = 'ncbi-nuccore-equine'"
-    demote member AL_TREE_EIAV_Canada    --whereClause "sequence.genotype = 'Canada' and sequence.source.name = 'ncbi-nuccore-equine'"
-    demote member AL_TREE_EIAV_Africa    --whereClause "sequence.genotype = 'Africa' and sequence.source.name = 'ncbi-nuccore-equine'"
-    demote member AL_TREE_EIAV_Asia      --whereClause "sequence.genotype = 'Asia' and sequence.source.name = 'ncbi-nuccore-equine'"
-    demote member AL_TREE_EIAV_SA        --whereClause "sequence.genotype = 'SA' and sequence.source.name = 'ncbi-nuccore-equine'"
-    demote member AL_TREE_EIAV_NA_A      --whereClause "sequence.genotype = 'NA_A' and sequence.source.name = 'ncbi-nuccore-equine'"
-    demote member AL_TREE_EIAV_NA_B      --whereClause "sequence.genotype = 'NA_B' and sequence.source.name = 'ncbi-nuccore-equine'"
+    demote member AL_TREE_EIAV_Am  --whereClause "sequence.genotype = 'Am' and sequence.source.name = 'ncbi-nuccore-equine'"
+    demote member AL_TREE_EIAV_As  --whereClause "sequence.genotype = 'As' and sequence.source.name = 'ncbi-nuccore-equine'"
+    demote member AL_TREE_EIAV_BR  --whereClause "sequence.genotype = 'Br' and sequence.source.name = 'ncbi-nuccore-equine'"
+    demote member AL_TREE_EIAV_ES  --whereClause "sequence.genotype = 'Es' and sequence.source.name = 'ncbi-nuccore-equine'"
+    demote member AL_TREE_EIAV_Eu1 --whereClause "sequence.genotype = 'Eu1' and sequence.source.name = 'ncbi-nuccore-equine'"
+    demote member AL_TREE_EIAV_Eu2 --whereClause "sequence.genotype = 'Eu2' and sequence.source.name = 'ncbi-nuccore-equine'"
+    demote member AL_TREE_EIAV_UK  --whereClause "sequence.genotype = 'UK' and sequence.source.name = 'ncbi-nuccore-equine'"
 
     exit
