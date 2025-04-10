@@ -48,6 +48,47 @@
   exit 
 
 
+  reference REF_EIAV_Eu2_MT338937
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 7978
+      exit
+
+    add feature-location 5LTR
+    feature-location 5LTR
+      add segment 1 288
+      exit
+
+    add feature-location gag
+    feature-location gag
+      add segment 433 1923
+      exit
+
+    add feature-location pro-pol
+    feature-location pro-pol
+      add segment 1680 5117
+      exit
+      
+    add feature-location s2
+    feature-location s2
+      add segment 5284 5493
+      exit
+                      
+    add feature-location env
+    feature-location env
+      add segment 5310 7673
+      exit
+
+    add feature-location 3LTR
+    feature-location 3LTR
+      add segment 7691 7978
+      exit
+      
+  exit 
+
+
+
   reference REF_EIAV_As_AF327877
 
     add feature-location whole_genome
@@ -95,7 +136,98 @@
   exit 
 
 
+  reference REF_EIAV_Am_AB008196
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 7896
+      exit
+
+    add feature-location 5LTR
+    feature-location 5LTR
+      add segment 1 467
+      exit
+
+    add feature-location gag
+    feature-location gag
+      add segment 468 1934
+      exit
+
+    add feature-location pro-pol
+    feature-location pro-pol
+      add segment 1685 5131
+      exit
+           
+    add feature-location s2
+    feature-location s2
+      add segment 5295 5486
+      exit
+                    
+    add feature-location env
+    feature-location env
+      add segment 5321 7855
+      exit
+
+  exit 
 
 
+  reference REF_EIAV_Br_MN560971
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 7968
+      exit
+
+    add feature-location 5LTR
+    feature-location 5LTR
+      add segment 1 78
+      exit
+
+    add feature-location gag
+    feature-location gag
+      add segment 262 1725
+      exit
+
+    add feature-location pro-pol
+    feature-location pro-pol
+      add segment 1509 4922
+      exit
+           
+    add feature-location s2
+    feature-location s2
+      add segment 5089 5298
+      exit
+                    
+    add feature-location env
+    feature-location env
+      add segment 5115 7682
+      exit
+
+    add feature-location rev
+    feature-location rev
+      add segment 161 256 --spliceIndex 1
+      add segment 4935 5078 --spliceIndex 2
+      exit
+
+  exit 
+
+
+  reference REF_EIAV_Es_MW924675
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 8179
+      exit
+
+  exit 
+
+  reference REF_EIAV_Uk_MH580898
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 7686
+      exit
+
+  exit 
 
 

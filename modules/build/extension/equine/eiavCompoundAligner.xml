@@ -4,10 +4,7 @@
 			<featureName>gag</featureName>
 		</codonAwareBlastAligner>
 		<codonAwareBlastAligner>
-			<featureName>pro</featureName>
-		</codonAwareBlastAligner>
-		<codonAwareBlastAligner>
-			<featureName>pol</featureName>
+			<featureName>pro-pol</featureName>
 		</codonAwareBlastAligner>
 		<codonAwareBlastAligner>
 			<featureName>env</featureName>
